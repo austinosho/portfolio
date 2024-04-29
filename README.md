@@ -14,7 +14,7 @@ Here, you'll find details about my SQL project, including the goals, the dataset
 
 | Project Link | Area of Analysis | Project Description |
 | ------------ | ---------------- | ------------------- |
-| [LeetCode-SQL-Solutions](https://github.com/austinosho/LeetCode-SQL-Solutions) | Problem-Solving with SQL | An in-depth journey through solving the SQL 50 on LeetCode, which included a variety of problems that honed my SQL skills across different levels of complexity. |
+| [LeetCode-SQL-Solutions](https://github.com/austinosho/LeetCode-SQL-Solutions) | Problem-Solving with SQL | An in-depth journey through solving the SQL 50 on LeetCode, which included a variety of problems that improved my SQL skills across different levels of complexity. |
 
 
 
