@@ -3,10 +3,11 @@
 Welcome aboard! 🎉 This is the spot where I showcase all my data adventures. From small experiments to big discoveries, you'll find the highlights of my journey in the world of data right here. Dive in and see what I've been up to!
 ## Table of Contents
 - [SQL](#SQL)
-- [Python](#project-2)
-- [Data Engineering](#project-3)
-- [Excel](#project-4)
-- [Tableau](#project-5)
+- [Excel](#project-2)
+- [Python](#project-3)
+- [Tableau](#project-4)
+- [Data Engineering](#project-5)
+  
 ## SQL 
 
 Here, you'll find details about my SQL project, including the goals, the datasets I worked with, and the outcomes of my analysis. Dive in to discover how I tackled data challenges with SQL!
