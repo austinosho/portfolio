@@ -4,8 +4,8 @@ Welcome aboard! 🎉 This is the spot where I showcase all my data adventures. F
 ## Table of Contents
 - [SQL](#SQL)
 - [Excel](#project-2)
-- [Python](#project-3)
-- [Tableau](#project-4)
+- [Power BI](#project-3)
+- [Python](#project-4)
 - [Data Engineering](#project-5)
   
 ## SQL 
