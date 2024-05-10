@@ -16,6 +16,7 @@ Here, you'll find details about my SQL project, including the goals, the dataset
 | ------------ | ---------------- | ------------------- |
 | [LeetCode-SQL-Solutions](https://github.com/austinosho/LeetCode-SQL-Solutions) | Problem-Solving with SQL | An in-depth journey through solving the SQL 50 on LeetCode, which included a variety of problems that improved my SQL skills across different levels of complexity. |
 | [8 Week SQL Challenge](link) | Data analysis, data cleaning, data transformation | This GitHub repository hosts the ["8 Week SQL Challenge,"](https://8weeksqlchallenge.com/getting-started/) a structured program designed by Danny Ma (Data With Danny) to help individuals improve their SQL skills. Through a series of case studies and learning resources, participants can enhance their data querying abilities, build personal portfolios, and engage with a supportive community of learners. |
+| [World Layoffs Data](https://github.com/austinosho/World-Layoffs-Data) | Data Cleaning, Exploratory Data Analysis | Explore insights from the World Layoffs Data using SQL, showcasing data cleaning and analysis skills. |
 
 
 
